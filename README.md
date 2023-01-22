@@ -1,6 +1,7 @@
 Hi there ! 👋<br/>
 I am Romain from France (Toulouse / Paris), student at 42 Paris and GNU-Linux / FOSS enthousiast.<br />
-I am passionate about low-level programming, network programming and aerospace! 🚀 I am also interested in web development.<br />
+I am passionate about low-level programming, network programming and aerospace! 🚀</br>
+I am also interested in web development.<br />
 📫 You can reach me on my [email](mailto:romain.trojani.bigot@gmail.com) or via my [linkedIn](https://www.linkedin.com/in/romain-trojani-bigot).
 
 <!---
